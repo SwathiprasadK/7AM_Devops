@@ -1,2 +1,2 @@
 # 7AM_Devops
-Added
+Added repo for devops practice from github
